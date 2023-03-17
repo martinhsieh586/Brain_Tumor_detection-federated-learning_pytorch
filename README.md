@@ -27,13 +27,13 @@
 > 多線程運行
 
 ## 使用
-> git clone "https://github.com/martinhsieh586/Brain_Tumor_detection-federated-learning_pytorch.git"
-> git checkout -b V3
-> cd Brain_Tumor_detection-federated-learning_pytorch
-> pip3 install pipreqs
-> pipreqs  ./
-> cd QT_gui
-> python3 main_windows.py
+    git clone "https://github.com/martinhsieh586/Brain_Tumor_detection-federated-learning_pytorch.git"
+    git checkout -b V3
+    cd Brain_Tumor_detection-federated-learning_pytorch
+    pip3 install pipreqs
+    pipreqs  ./
+    cd QT_gui
+    python3 main_windows.py
 
 ## 步驟
 > 1. 引入資料集圖片(.p)。

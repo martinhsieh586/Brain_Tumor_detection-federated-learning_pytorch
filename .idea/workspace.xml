@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b21c1bd4-2ff6-4cc1-bfdd-dc5ed8b8f146" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim" beforeDir="false" afterPath="$PROJECT_DIR$/QT_gui/fed_server_sim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim/Main_window/visualization_ui.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim/data/Brain_Tumor_classify.p" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim/data/Brain_Tumor_classify/0/1.jpg" beforeDir="false" />
@@ -3219,7 +3221,7 @@
       <workItem from="1671638417472" duration="3000" />
       <workItem from="1673594974979" duration="35000" />
       <workItem from="1678346220936" duration="1162000" />
-      <workItem from="1679029886412" duration="6296000" />
+      <workItem from="1679029886412" duration="6609000" />
     </task>
     <servers />
   </component>
