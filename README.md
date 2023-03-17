@@ -22,9 +22,9 @@
 > 準確度依舊介於70~80%的區間
 
 ## Version 3 更新重點
-> QT介面實作
-> 將函式精簡化
-> 多線程運行
+> - QT介面實作
+> - 將函式精簡化
+> - 多線程運行
 
 ## 使用
     git clone "https://github.com/martinhsieh586/Brain_Tumor_detection-federated-learning_pytorch.git"
