@@ -38,8 +38,7 @@
 ## 步驟
 > 1. 引入資料集圖片(.p)。
 > 2. 確認資料集中病徵種類，
->     |:-:|:-:|
->     |Type|glioma_tumor|meningioma_tumor|no_tumor|pituitary_tumor|
+>     Type: glioma_tumor, meningioma_tumor, no_tumor, pituitary_tumor
 > 3. 應用部分 [Federated Learning](federal_learning_cnn_pytorch_brain.ipynb)
 >    1. 建置pytorch模型
 >    2. 定義訓練以及測試函式
@@ -66,7 +65,6 @@
 > - 進行中 :
 > 1. 提升運算效能
 > 2. 以遷移學習方式引入較優秀模型，e.g.:resnet。
-> 3. 以平行運算方式，同時訓練多個模型。
 > - 目標 :
 > 1. 期望運用於不同深度學習方法，e.g.:RNN。
 > 2. 結合`meta-learning`使這種機器學習方法能在面對多元的資料集時有更多彈性
