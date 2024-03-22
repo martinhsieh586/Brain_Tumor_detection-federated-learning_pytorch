@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b21c1bd4-2ff6-4cc1-bfdd-dc5ed8b8f146" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim" beforeDir="false" afterPath="$PROJECT_DIR$/QT_gui/fed_server_sim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QT_gui/fed_server_sim/Main_window/visualization_ui.py" beforeDir="false" />
@@ -2970,12 +2969,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/federated_learning",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -3223,7 +3219,13 @@
       <workItem from="1671638417472" duration="3000" />
       <workItem from="1673594974979" duration="35000" />
       <workItem from="1678346220936" duration="1162000" />
-      <workItem from="1679029886412" duration="6948000" />
+      <workItem from="1679029886412" duration="7089000" />
+      <workItem from="1679474311268" duration="1518000" />
+      <workItem from="1680165504230" duration="18000" />
+      <workItem from="1681967328920" duration="2483000" />
+      <workItem from="1683254063467" duration="2119000" />
+      <workItem from="1683263620904" duration="961000" />
+      <workItem from="1686563848400" duration="67000" />
     </task>
     <servers />
   </component>
@@ -3242,10 +3244,10 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/federated_learning$main_window__1_.coverage" NAME="main_window (1) Coverage Results" MODIFIED="1679040606021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui/fed_server_sim" />
+    <SUITE FILE_PATH="coverage/federated_learning$main_window__1_.coverage" NAME="main_window (1) Coverage Results" MODIFIED="1679474448721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui/fed_server_sim" />
     <SUITE FILE_PATH="coverage/federated_learning_pytorch$pyqt_ui.coverage" NAME="pyqt_ui Coverage Results" MODIFIED="1668669712250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui" />
-    <SUITE FILE_PATH="coverage/federated_learning_pytorch$img_precess.coverage" NAME="img_precess Coverage Results" MODIFIED="1668964187204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/federated_learning_pytorch$visualization_ui.coverage" NAME="visualization_ui Coverage Results" MODIFIED="1669559334629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui/FirePlanV-master/Main_window" />
+    <SUITE FILE_PATH="coverage/federated_learning_pytorch$img_precess.coverage" NAME="img_precess Coverage Results" MODIFIED="1668964187204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/federated_learning_pytorch$pyqt_main.coverage" NAME="pyqt_main Coverage Results" MODIFIED="1668703506541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui" />
     <SUITE FILE_PATH="coverage/federated_learning_pytorch$main_window__1_.coverage" NAME="main_window (1) Coverage Results" MODIFIED="1673594987514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui/fed_server_sim" />
     <SUITE FILE_PATH="coverage/federated_learning_pytorch$UI.coverage" NAME="UI Coverage Results" MODIFIED="1668667716908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QT_gui" />
