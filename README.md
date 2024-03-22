@@ -42,7 +42,7 @@
 > 3. 應用部分 [Federated Learning](federal_learning_cnn_pytorch_brain.ipynb)
 >    1. 建置pytorch模型
 >    2. 定義訓練以及測試函式
->    3. 在 Early-stopping 作微調
+>    3. 在 Early-stopping 階段作微調
 >       - |超參數|數值|
 >         |:-|-:|
 >         |學習率|`0.001`|
